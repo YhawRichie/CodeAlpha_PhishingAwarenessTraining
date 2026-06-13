@@ -27,4 +27,5 @@ The project is an interactive phishing awareness training module designed to edu
 
 ## Author
 Richmond Tetteh
+
 CodeAlpha Cyber Security Internship
